@@ -17,9 +17,13 @@ Criar uma nova rubrica
 
 1.	Personalize os seus critérios de avaliação ou se tiver pronto importe de outro local:
 As predefinições Excelente, Bom, Suficiente e Fraco podem ser editadas consoante a sua estratégia de avaliação. Se tiver optado por adicionar pontos, personalize-os aqui também.
+
 Utilize os sinais de adição para adicionar novas colunas e linhas aos seus critérios.
+
 Selecione o ícone de cópia para duplicar uma linha ou coluna, ou selecione o ícone de lata de lixo para eliminar uma linha ou coluna.
+
 Sugestão: introduza uma percentagem de 100 se pretender que alguns critérios tenham um peso maior do que outros. Certifique-se de que tudo totaliza 100. Se for necessário, selecione Distribuir pesos uniformemente para repor todas as suas percentagens.
+
 ![rubrica](https://github.com/vrios/UEMG-teams/blob/master/imagens/criar-rubrica5.jpg)
 
 1.	Quando concluir a personalização da rubrica, selecione Anexo.
@@ -30,7 +34,9 @@ Sugestão: Pré-visualize a vista do seu estudante da tarefa abrindo-a e, em seg
 
 
 Reutilizar uma rubrica criada previamente
+
 Sempre que criar uma rubrica e anexá-lo a uma tarefa, este será guardado na sua lista de rubrica. Para reutilizar uma rubrica:
+
 1.	Navegue para o canal geral numa das suas turmas e selecione o separador tarefas .
 1.	Selecione criar > tarefa.
 1.	Selecione Adicionar rubrica e selecione uma rubrica a partir da lista e, em seguida, selecione seguinte.
