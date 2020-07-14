@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Como deixar seus vídeos visíveis somente para sua equipe no Teams"
+date: 2020-07-14
+---
 Para configurar e não deixar disponível, precisamos fazer os seguintes passos: 
 Acessar: [Microsoft Stream](https://web.microsoftstream.com/) e fazer o login com e-mail institucional e senha, ou, na versão web do Teams, clicar no canto superior esquerdo e no ícone do Stream
 
