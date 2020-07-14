@@ -5,3 +5,4 @@ Este repositório é um compilado de dicas que foram disponibilizadas por vário
 ## [Como impedir o Teams de iniciar automaticamente e deixar o pc lento](https://github.com/vrios/UEMG-teams/blob/master/compartilhar_arquivo.md)
 ## [Como compartilhar arquivos com a equipe do Teams](https://github.com/vrios/UEMG-teams/blob/master/compartilhar_arquivo.md)
 ## [Como criar uma tarefa do Teams](https://github.com/vrios/UEMG-teams/blob/master/criar-tarefas.md)
+## [Como criar canais para organizar suas aulas](https://github.com/vrios/UEMG-teams/blob/master/criar-canal.md)
